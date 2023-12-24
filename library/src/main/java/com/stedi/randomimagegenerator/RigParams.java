@@ -1,6 +1,6 @@
 package com.stedi.randomimagegenerator;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.stedi.randomimagegenerator.callbacks.GenerateCallback;
 import com.stedi.randomimagegenerator.callbacks.SaveCallback;

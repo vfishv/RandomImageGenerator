@@ -1,7 +1,7 @@
 package com.stedi.randomimagegenerator.callbacks;
 
 import android.graphics.Bitmap;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.stedi.randomimagegenerator.ImageParams;
 

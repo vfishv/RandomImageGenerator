@@ -1,7 +1,7 @@
 package com.stedi.randomimagegenerator;
 
 import android.graphics.Bitmap;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * A specified quality to use for bitmaps generation and compression.

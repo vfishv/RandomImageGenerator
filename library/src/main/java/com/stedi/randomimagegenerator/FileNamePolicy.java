@@ -1,6 +1,6 @@
 package com.stedi.randomimagegenerator;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Image file name policy. Used to save images with the corresponding names retrieved from it.

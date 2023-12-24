@@ -1,8 +1,8 @@
 package com.stedi.randomimagegenerator;
 
 import android.graphics.Color;
-import android.support.annotation.ColorInt;
-import android.support.annotation.NonNull;
+import androidx.annotation.ColorInt;
+import androidx.annotation.NonNull;
 
 /**
  * Is used by generators to generate images with specified palette.

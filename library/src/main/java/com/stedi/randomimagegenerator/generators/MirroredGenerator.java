@@ -1,6 +1,6 @@
 package com.stedi.randomimagegenerator.generators;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.stedi.randomimagegenerator.generators.effects.MirroredEffect;
 
