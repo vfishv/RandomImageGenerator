@@ -5,6 +5,14 @@ android {
     //buildToolsVersion '34.0.0'
     namespace "com.stedi.randomimagegenerator.sample"
 
+    buildFeatures {
+        buildConfig = true
+        aidl = false
+        viewBinding = false
+        dataBinding = false
+        //buildFeatures.compose = false
+    }
+
     defaultConfig {
         applicationId "com.stedi.randomimagegenerator.sample"
         minSdkVersion 16
@@ -24,6 +32,6 @@ android {
 dependencies {
     implementation 'com.stedi.randomimagegenerator:rig:1.1.0'
 
-    implementation 'com.android.support:appcompat-v7:28.1.0'
-    implementation 'com.android.support:recyclerview-v7:28.1.0'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
 }
